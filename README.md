@@ -1,10 +1,5 @@
-cool hi talk to me on discord (w_llo)
-- dev at atlas
-- roblox exploiter
-- scripter
+I love to code in typescript but not javascript
 
-i basically know c/c++ c# (xaml) html/css/js next react backend w planetscale and prolly prisma
-also learning astro 😎
-btw i suck at cpp
+**Nextjs** is the best framework ever created
 
-[![my gh stats](https://github-readme-stats.vercel.app/api?username=wello-gh)]
+_w_llo_ on Discord
