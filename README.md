@@ -1,5 +1,5 @@
-I love to code in typescript but not javascript
+exploiting every vulnerability i see...
 
-**Nextjs** is the best framework ever created
+i love c++ and typescript with next.js
 
-_w_llo_ on Discord
+hacking games for fun
