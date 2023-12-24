@@ -14,5 +14,5 @@ React
 Javascript/Typescript
 - Go (soon)
 - Rust (soon)
--  (soon)
+- Java (soon)
 ```
